@@ -33,17 +33,17 @@ Users should be able to:
 ### Screenshot
 
 ![desktop-design](screenshot/desktop-design.jpg)
-desktop-design
+#### desktop-design
 ![error-state](screenshot/error-state.jpg)
-error-state
+#### error-state
 ![focus-and-active-state](screenshot/focus-and-active-state.jpg)
-focus-and-active-state
+#### focus-and-active-state
 ![hover-state](screenshot/hover-state.jpg)
-hover-state
+#### hover-state
 ![success-state](screenshot/success-state.jpg)
-success-state
+#### success-state
 ![mobile-design](screenshot/mobile-design.jpg)
-mobile-design
+#### mobile-design
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/ezekiel673/contact-form-main)
